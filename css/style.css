@@ -47,14 +47,15 @@ header h5 {
     padding-right: 10px;
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
     color: black;
 }
 
 .links a:hover {
-    background-color: grey;
+    color: gray;
 }
 
-ul {
+/* ul {
     text-align: center;
     margin-right: 125px;
     list-style: none;
@@ -67,4 +68,4 @@ li {
     display: inline;
     padding: 10px 25px;
     cursor: pointer;
-}
+} */
